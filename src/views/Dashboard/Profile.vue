@@ -3,11 +3,7 @@
     <div class="container-fluid">
       <div
         class="page-header min-height-300"
-        style="
-          background-image: url('https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80');
-          margin-right: -24px;
-          margin-left: -34%;
-        "
+        style="background-image: url('https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80'); margin-right: -24px; margin-left: -34%"
       >
         <span class="mask bg-gradient-success opacity-6"></span>
       </div>
@@ -16,11 +12,7 @@
           <div class="row gx-4">
             <div class="col-auto">
               <div class="avatar avatar-xl position-relative">
-                <img
-                  src="../assets/img/team-1.jpg"
-                  alt="profile_image"
-                  class="shadow-sm w-100 border-radius-lg"
-                />
+                <img src="../assets/img/team-1.jpg" alt="profile_image" class="shadow-sm w-100 border-radius-lg" />
               </div>
             </div>
             <div class="col-auto my-auto">
@@ -29,42 +21,14 @@
                 <p class="mb-0 font-weight-bold text-sm">Public Relations</p>
               </div>
             </div>
-            <div
-              class="mx-auto mt-3 col-lg-4 col-md-6 my-sm-auto ms-sm-auto me-sm-0"
-            >
+            <div class="mx-auto mt-3 col-lg-4 col-md-6 my-sm-auto ms-sm-auto me-sm-0">
               <div class="nav-wrapper position-relative end-0">
-                <ul
-                  class="p-1 bg-transparent nav nav-pills nav-fill"
-                  role="tablist"
-                >
+                <ul class="p-1 bg-transparent nav nav-pills nav-fill" role="tablist">
                   <li class="nav-item">
-                    <a
-                      class="px-0 py-1 mb-0 nav-link active"
-                      data-bs-toggle="tab"
-                      href="javascript:;"
-                      role="tab"
-                      aria-selected="true"
-                    >
-                      <svg
-                        class="text-dark"
-                        width="16px"
-                        height="16px"
-                        viewBox="0 0 42 42"
-                        version="1.1"
-                        xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                      >
-                        <g
-                          stroke="none"
-                          stroke-width="1"
-                          fill="none"
-                          fill-rule="evenodd"
-                        >
-                          <g
-                            transform="translate(-2319.000000, -291.000000)"
-                            fill="#FFFFFF"
-                            fill-rule="nonzero"
-                          >
+                    <a class="px-0 py-1 mb-0 nav-link active" data-bs-toggle="tab" href="javascript:;" role="tab" aria-selected="true">
+                      <svg class="text-dark" width="16px" height="16px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                          <g transform="translate(-2319.000000, -291.000000)" fill="#FFFFFF" fill-rule="nonzero">
                             <g transform="translate(1716.000000, 291.000000)">
                               <g transform="translate(603.000000, 0.000000)">
                                 <path
@@ -90,41 +54,14 @@
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a
-                      class="px-0 py-1 mb-0 nav-link"
-                      data-bs-toggle="tab"
-                      href="javascript:;"
-                      role="tab"
-                      aria-selected="false"
-                    >
-                      <svg
-                        class="text-dark"
-                        width="16px"
-                        height="16px"
-                        viewBox="0 0 40 44"
-                        version="1.1"
-                        xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                      >
+                    <a class="px-0 py-1 mb-0 nav-link" data-bs-toggle="tab" href="javascript:;" role="tab" aria-selected="false">
+                      <svg class="text-dark" width="16px" height="16px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>document</title>
-                        <g
-                          stroke="none"
-                          stroke-width="1"
-                          fill="none"
-                          fill-rule="evenodd"
-                        >
-                          <g
-                            transform="translate(-1870.000000, -591.000000)"
-                            fill="#FFFFFF"
-                            fill-rule="nonzero"
-                          >
+                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                          <g transform="translate(-1870.000000, -591.000000)" fill="#FFFFFF" fill-rule="nonzero">
                             <g transform="translate(1716.000000, 291.000000)">
                               <g transform="translate(154.000000, 300.000000)">
-                                <path
-                                  class="color-background"
-                                  d="M40,40 L36.3636364,40 L36.3636364,3.63636364 L5.45454545,3.63636364 L5.45454545,0 L38.1818182,0 C39.1854545,0 40,0.814545455 40,1.81818182 L40,40 Z"
-                                  opacity="0.603585379"
-                                />
+                                <path class="color-background" d="M40,40 L36.3636364,40 L36.3636364,3.63636364 L5.45454545,3.63636364 L5.45454545,0 L38.1818182,0 C39.1854545,0 40,0.814545455 40,1.81818182 L40,40 Z" opacity="0.603585379" />
                                 <path
                                   class="color-background"
                                   d="M30.9090909,7.27272727 L1.81818182,7.27272727 C0.814545455,7.27272727 0,8.08727273 0,9.09090909 L0,41.8181818 C0,42.8218182 0.814545455,43.6363636 1.81818182,43.6363636 L30.9090909,43.6363636 C31.9127273,43.6363636 32.7272727,42.8218182 32.7272727,41.8181818 L32.7272727,9.09090909 C32.7272727,8.08727273 31.9127273,7.27272727 30.9090909,7.27272727 Z M18.1818182,34.5454545 L7.27272727,34.5454545 L7.27272727,30.9090909 L18.1818182,30.9090909 L18.1818182,34.5454545 Z M25.4545455,27.2727273 L7.27272727,27.2727273 L7.27272727,23.6363636 L25.4545455,23.6363636 L25.4545455,27.2727273 Z M25.4545455,20 L7.27272727,20 L7.27272727,16.3636364 L25.4545455,16.3636364 L25.4545455,20 Z"
@@ -138,34 +75,11 @@
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a
-                      class="px-0 py-1 mb-0 nav-link"
-                      data-bs-toggle="tab"
-                      href="javascript:;"
-                      role="tab"
-                      aria-selected="false"
-                    >
-                      <svg
-                        class="text-dark"
-                        width="16px"
-                        height="16px"
-                        viewBox="0 0 40 40"
-                        version="1.1"
-                        xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                      >
+                    <a class="px-0 py-1 mb-0 nav-link" data-bs-toggle="tab" href="javascript:;" role="tab" aria-selected="false">
+                      <svg class="text-dark" width="16px" height="16px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>settings</title>
-                        <g
-                          stroke="none"
-                          stroke-width="1"
-                          fill="none"
-                          fill-rule="evenodd"
-                        >
-                          <g
-                            transform="translate(-2020.000000, -442.000000)"
-                            fill="#FFFFFF"
-                            fill-rule="nonzero"
-                          >
+                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                          <g transform="translate(-2020.000000, -442.000000)" fill="#FFFFFF" fill-rule="nonzero">
                             <g transform="translate(1716.000000, 291.000000)">
                               <g transform="translate(304.000000, 151.000000)">
                                 <polygon
@@ -204,36 +118,26 @@
             <div class="card-header pb-0">
               <div class="d-flex align-items-center">
                 <p class="mb-0">Edit Profile</p>
-                <argon-button color="success" size="sm" class="ms-auto"
-                  >Settings</argon-button
-                >
+                <argon-button color="success" size="sm" class="ms-auto">Settings</argon-button>
               </div>
             </div>
             <div class="card-body">
               <p class="text-uppercase text-sm">User Information</p>
               <div class="row">
                 <div class="col-md-6">
-                  <label for="example-text-input" class="form-control-label"
-                    >Username</label
-                  >
+                  <label for="example-text-input" class="form-control-label">Username</label>
                   <argon-input type="text" value="lucky.jesse" />
                 </div>
                 <div class="col-md-6">
-                  <label for="example-text-input" class="form-control-label"
-                    >Email address</label
-                  >
+                  <label for="example-text-input" class="form-control-label">Email address</label>
                   <argon-input type="email" value="jesse@example.com" />
                 </div>
                 <div class="col-md-6">
-                  <label for="example-text-input" class="form-control-label"
-                    >First name</label
-                  >
+                  <label for="example-text-input" class="form-control-label">First name</label>
                   <input class="form-control" type="text" value="Jesse" />
                 </div>
                 <div class="col-md-6">
-                  <label for="example-text-input" class="form-control-label"
-                    >Last name</label
-                  >
+                  <label for="example-text-input" class="form-control-label">Last name</label>
                   <argon-input type="text" value="Lucky" />
                 </div>
               </div>
@@ -241,30 +145,19 @@
               <p class="text-uppercase text-sm">Contact Information</p>
               <div class="row">
                 <div class="col-md-12">
-                  <label for="example-text-input" class="form-control-label"
-                    >Address</label
-                  >
-                  <argon-input
-                    type="text"
-                    value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09"
-                  />
+                  <label for="example-text-input" class="form-control-label">Address</label>
+                  <argon-input type="text" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09" />
                 </div>
                 <div class="col-md-4">
-                  <label for="example-text-input" class="form-control-label"
-                    >City</label
-                  >
+                  <label for="example-text-input" class="form-control-label">City</label>
                   <argon-input type="text" value="New York" />
                 </div>
                 <div class="col-md-4">
-                  <label for="example-text-input" class="form-control-label"
-                    >Country</label
-                  >
+                  <label for="example-text-input" class="form-control-label">Country</label>
                   <argon-input type="text" value="United States" />
                 </div>
                 <div class="col-md-4">
-                  <label for="example-text-input" class="form-control-label"
-                    >Postal code</label
-                  >
+                  <label for="example-text-input" class="form-control-label">Postal code</label>
                   <argon-input type="text" value="437300" />
                 </div>
               </div>
@@ -272,13 +165,8 @@
               <p class="text-uppercase text-sm">About me</p>
               <div class="row">
                 <div class="col-md-12">
-                  <label for="example-text-input" class="form-control-label"
-                    >About me</label
-                  >
-                  <argon-input
-                    type="text"
-                    value="A beautiful Dashboard for Bootstrap 5. It is Free and Open Source."
-                  />
+                  <label for="example-text-input" class="form-control-label">About me</label>
+                  <argon-input type="text" value="A beautiful Dashboard for Bootstrap 5. It is Free and Open Source." />
                 </div>
               </div>
             </div>
@@ -295,7 +183,7 @@
 <script>
 import setNavPills from "@/assets/js/nav-pills.js";
 import setTooltip from "@/assets/js/tooltip.js";
-import ProfileCard from "./components/ProfileCard.vue";
+import ProfileCard from "@/components/examples/ProfileCard.vue";
 import ArgonInput from "@/components/ArgonInput.vue";
 import ArgonButton from "@/components/ArgonButton.vue";
 
@@ -305,7 +193,7 @@ export default {
   name: "profile",
   data() {
     return {
-      showMenu: false
+      showMenu: false,
     };
   },
   components: { ProfileCard, ArgonInput, ArgonButton },
@@ -329,6 +217,6 @@ export default {
     this.$store.state.showFooter = true;
     this.$store.state.hideConfigButton = false;
     body.classList.remove("profile-overview");
-  }
+  },
 };
 </script>
